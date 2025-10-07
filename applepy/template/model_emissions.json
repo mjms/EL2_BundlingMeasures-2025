@@ -1,0 +1,33 @@
+{"AIM": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050},
+
+"CAPRI": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050}, 
+
+"ENVISAGE": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050}, 
+
+"GLOBIOM": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050}, 
+
+"MAGNET": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050}, 
+        
+"MAgPIE": {"item": "TOT",
+        "ref_year": "",
+        "end_year": 2050},
+        
+"GCAM": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050},
+
+"FARM": {"item": "AGR",
+        "ref_year": "",
+        "end_year": 2050}
+
+}

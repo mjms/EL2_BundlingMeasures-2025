@@ -1,0 +1,17 @@
+{
+  "CONS_dm": "1000 t dm",
+  "EXPO_dm": "1000 t dm",
+  "FDRY_dm": "1000 t dm",
+  "FEED_dm": "1000 t dm",
+  "FNRM_dm": "1000 t dm",
+  "FOOD_dm": "1000 t dm",
+  "FRUM_dm": "1000 t dm",
+  "IMPO_dm": "1000 t dm",
+  "NETT_dm": "1000 t dm",
+  "OTHU_dm": "1000 t dm",
+  "PROD_dm": "1000 t dm",
+  "XPRC_dm": "USD/t dm",
+  "XPRP_dm": "USD/t dm",
+  "XPRX_dm": "USD/t dm",
+  "YILD_dm": "dm t/ha"
+}
