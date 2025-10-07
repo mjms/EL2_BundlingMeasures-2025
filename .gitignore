@@ -1,2 +1,2 @@
-data
 jupyter-notebooks/output/*
+.DS_Store
