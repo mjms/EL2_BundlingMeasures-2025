@@ -75,3 +75,4 @@ Marina Sundiang*, Thais Diniz Oliveira, Daniel Mason-D’Croz, Matthew Gibson, F
 
 *corresponding author, Department of Global Development, College of Agriculture and Life Science, Cornell University, Ithaca, NY, USA (msundiang@cornell.edu)
 
+[![DOI](https://zenodo.org/badge/1071629437.svg)](https://doi.org/10.5281/zenodo.17289084)
