@@ -5,7 +5,7 @@ We used the custom package AgMIP Processing PipeLinE or `applepy`. Note that `ap
 
 ## Set up environment
 On the terminal:
-1. Clone this repository (`gh clone repo [TBD]`)
+1. Clone this repository (`gh repo clone mjms/EL2_BundlingMeasures-2025`)
 2. Create Python environment (e.g. `conda env create -n <name for your environment> -f environment.yml`)
 3. Activate environment (e.g. `conda activate <name for your envrionment>`)
 
