@@ -1,5 +1,5 @@
 # Code and data for *"Bundling Measures for Food Systems Transformation: a global, multimodel assessment"*
-This repository contains the code and data used in our paper *"Bundling Measures for Food Systems Transformation: a global, multimodel assessment"* (doi: [TBD]). This includes Jupyter Notebooks to generate the main and supplementary figures in the paper, generate Excel sheets that summarize the dataset, and an outline of the data processing pipeline used in this paper.
+This repository contains the code and data used in our paper *"Bundling Measures for Food Systems Transformation: a global, multimodel assessment"* (doi: [TBD]). This includes Jupyter Notebooks to generate the main and supplementary figures in the paper, generate Excel sheets that summarize the dataset, and an outline of the data processing pipeline used in the paper.
 
 We used the custom package AgMIP Processing PipeLinE or `applepy`. Note that `applepy` is still in development. The version used here may not be the most current release. Therefore it is important to use the included `applepy` folder in this repository. 
 
